@@ -1,0 +1,19 @@
+{
+  "name": "node-network-programming",
+  "version": "1.0.0",
+  "description": "some demo for my blog about node network programe",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "http",
+    "tcp",
+    "udp",
+    "dns",
+    "network-programming"
+  ],
+  "author": "ray",
+  "license": "ISC"
+}
